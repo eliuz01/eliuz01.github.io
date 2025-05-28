@@ -24,9 +24,7 @@
 
 ## Projects
 **Student Pick-up and Drop Alert API**
-This system allows notifications to be sent to students when a bus is approaching their pickup or dropoff location. The notifications are generated based on the bus's current location and its speed. If the bus is within a 5-minute radius of the student’s location, a notification is generated.
-
-I opted for the Haversine formula for distance calculation after facing challenges with configuring PostgreSQL with PostGIS (a spatial database extension for PostgreSQL) to handle geographic data for distance calculations.
+ - This system allows notifications to be sent to students when a bus is approaching their pickup or dropoff location. The notifications are generated based on the bus's current location and its speed. If the bus is within a 5-minute radius of the student’s location, a notification is generated. I opted for the Haversine formula for distance calculation after facing challenges with configuring PostgreSQL with PostGIS (a spatial database extension for PostgreSQL) to handle geographic data for distance calculations.
 
 ##### Key Features
 - Distance Calculation: The system uses the Haversine formula to calculate the distance between the bus and the student's pickup or dropoff location.
