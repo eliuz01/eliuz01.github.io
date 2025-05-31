@@ -1,6 +1,7 @@
 # Back-End Web Developer
 
- - #### Technical Skills: Python, Django(for APIs), SQL, Git(Version control), GitHub. 
+ - #### Technical Skills: Python, Django(for APIs), SQL, Git(Version control), GitHub.
+ - ***Linkedln profile*** [here](www.linkedin.com/in/eliuz-osongo) 
 
 ## Education 
 - BA, Information Technology, Dedan kimathi University of Technology (DEKUT) - May 2015.
