@@ -7,9 +7,10 @@
 - BA, Information Technology, Dedan kimathi University of Technology (DEKUT) - May 2015.
 
 ## Certifications 
-- Back-End Web Development (April, 2025) - ALX Africa - [Click here](https://savanna.alxafrica.com/certificates/nSHTzh2pZR)
-- Professional Development Skills for the Digital Age (October 2024) - ALX Africa - [click here](https://intranet.alxswe.com/certificates/fCSYxMJrR5)
-- Lean Six Sigma White Belt Certification (June, 2024) - The Council for Six Sigma Certification - [click here](https://cmkr.co/pdf/downloads/?certificate_id=61902&sid=91321329&nrg_id=1440777&test_id=2199131&aid=5492777&utype=SD&cert_token=82b66799b2fc05df92957d87196e501b&tprtoken=9XVA)
+- AWS Certified Cloud Practitioner (August, 2025) - Amazon Web Services (AWS) - [Click here](https://www.credly.com/badges/430de17b-f100-49ba-842a-113479edd1d0) to view certificate]
+- Back-End Web Development (April, 2025) - ALX Africa - [Click here](https://savanna.alxafrica.com/certificates/nSHTzh2pZR) to view certificate
+- Professional Development Skills for the Digital Age (October 2024) - ALX Africa - [click here](https://intranet.alxswe.com/certificates/fCSYxMJrR5) to view certificate
+- Lean Six Sigma White Belt Certification (June, 2024) - The Council for Six Sigma Certification - [click here](https://cmkr.co/pdf/downloads/?certificate_id=61902&sid=91321329&nrg_id=1440777&test_id=2199131&aid=5492777&utype=SD&cert_token=82b66799b2fc05df92957d87196e501b&tprtoken=9XVA) to view certificate
 
 ## Work Experience 
 **Technical Writer @ UvoCorp (January 2016 - January 2025)** 
