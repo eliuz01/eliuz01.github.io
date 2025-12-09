@@ -26,7 +26,7 @@
 - Helped in database management activities, such as drafting SQL queries to obtain and manipulate data for application development
 
 ## Projects
-**Student Pick-up and Drop Alert API**
+**Student Pick-up and Drop Alert API**[here](https://github.com/eliuz01/ALX_Capstone_Project.git)
  - This system allows notifications to be sent to students when a bus is approaching their pickup or dropoff location. The notifications are generated based on the bus's current location and its speed. If the bus is within a 5-minute radius of the student’s location, a notification is generated. I opted for the Haversine formula for distance calculation after facing challenges with configuring PostgreSQL with PostGIS (a spatial database extension for PostgreSQL) to handle geographic data for distance calculations.
 
 ***Key Features***
@@ -34,5 +34,25 @@
 - Notification Message: If the bus is within 5 minutes of the student's location, a notification is generated with details about the distance and time remaining to the pickup or dropoff location.
 - Customizable Speed: The bus speed is configurable to adjust the time and distance calculations.
 - Github Repository [here](https://github.com/eliuz01/ALX_Capstone_Project.git)
+
+**Ecommerce Shop** [here](https://github.com/eliuz01/alx-project-nexus.git)
+- The ecommerce system enables users to browse products, filter by category, and add items to a shopping cart before completing checkout. It features a custom user model supporting secure authentication and order management. Products are organized into categories and maintain stock levels, while orders contain multiple order items capturing price and quantity at purchase time. The flow covers browsing, cart creation, checkout, payment confirmation, and order status updates from Pending to Paid, Shipped, or Cancelled. With optimized database design, async processing, caching, and scalable APIs, the system ensures efficient performance, reliability, and a seamless online shopping experience
+
+***Key Features***
+- Secure Authentication & Custom User Model – Users register, sign in with email, and manage orders securely.
+- Product & Inventory Management – Products are categorized with real-time stock tracking.
+- Cart & Order Processing – Add-to-cart, checkout, and multi-item order functionality with price snapshots.
+- Payment & Status Workflow – Transitions from Pending to Paid, Shipped, or Cancelled after transaction events.
+- Scalable, High-Performance Architecture – Caching, async tasks, and optimized queries for fast, reliable API responses.
+
+**Travel – Django REST API (Airbnb Clone)** [here](https://github.com/eliuz01/alx_travel_app_0x03.git)
+This Django-based Airbnb-style booking platform enables secure user authentication with email-based registration and login. Property listings are created and managed by hosts, featuring pricing, descriptions, and real-time availability. Guests can book accommodations, view bookings, and leave reviews. The system supports multi-item booking logic with price snapshots and a structured status workflow, transitioning bookings from Pending to Paid, Confirmed, or Cancelled based on transaction events. Celery-driven asynchronous notifications support automated booking confirmation emails. Built with performance in mind, the application utilizes caching, optimized queries, and background task processing to deliver a fast, scalable, and reliable API for production-level use.
+
+***key features***
+- Secure Authentication – Email login, protected endpoints, and personalized user dashboards.
+- Property Listing Management – Hosts create, update, categorize, and manage real-time availability.
+- Booking & Order Workflow – Date-based reservation system with pricing snapshots and status changes.
+- Automated Notification System – Celery-based booking confirmation and transactional emails.
+- Scalable High-Performance Architecture – Caching, async tasks, and optimized queries for fast response
 
 
