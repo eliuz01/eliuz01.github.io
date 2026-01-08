@@ -14,7 +14,12 @@
 - Lean Six Sigma White Belt Certification (June, 2024) - The Council for Six Sigma Certification - [click here](https://cmkr.co/pdf/downloads/?certificate_id=61902&sid=91321329&nrg_id=1440777&test_id=2199131&aid=5492777&utype=SD&cert_token=82b66799b2fc05df92957d87196e501b&tprtoken=9XVA) to view certificate
 
 ## Work Experience 
-**Technical Writer @ UvoCorp (January 2016 - January 2025)** 
+**Back-end Developer @ EVTech – Remote (volunteer)- January 2025 - December 2025**                                                                                            
+ - Collaborated with team members to collect database requirements, design and optimized database solutions, resulting in faster query execution and improved application performance.
+ - Oversaw data entry and extraction processes, enhancing overall data quality and accuracy from 85% to 95%, resulting in improved project outcomes and client satisfaction
+ - Developed RESTful APIs to seamlessly link with front-end apps, supporting a growing client base of over 1000 users
+
+**Technical Writer @ UvoCorp (January 2016 - January 2024)** 
  - Completed detailed technical research to guarantee accuracy and relevance of documents for all category of users, attaining 90% satisfaction rate
  - Authored and edited over 400,000 words of technical content., delivering error free user manuals and software documentations
  - Offered technical writing aid for company training manuals, improving staff training efficiency by more than 22%
